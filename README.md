@@ -11,6 +11,7 @@ A collection of awesome tutorials on Functional Programming specifically for OO 
 
 ##### Videos
 * [Functional programming design patterns](https://www.youtube.com/watch?v=E8I19uA-wGY)
+* [James Coglan: Practical functional programming](https://www.youtube.com/watch?v=XcS-LdEBUkE)
 
 ##### Blogs
 * [From callback to Future -> Functor -> Monad](https://medium.com/@yelouafi/from-callback-to-future-functor-monad)
